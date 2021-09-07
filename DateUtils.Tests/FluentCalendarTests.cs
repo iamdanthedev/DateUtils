@@ -1,6 +1,6 @@
 using System;
 using System.Linq;
-using DanTheDev.DateUtils;
+using Bonliva.DateUtils;
 using Xunit;
 
 namespace DateUtils.Tests

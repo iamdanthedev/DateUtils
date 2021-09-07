@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using DanTheDev.DateUtils;
+using Bonliva.DateUtils;
 using FluentAssertions;
 using NUnit.Framework;
 

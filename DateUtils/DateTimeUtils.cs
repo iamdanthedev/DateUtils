@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     public static class DateTimeUtils
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     public class FluentDate
     {

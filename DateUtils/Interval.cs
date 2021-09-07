@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using MoreLinq;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     /// <summary>
     /// @todo: add tests !!!!!!!!!!!!

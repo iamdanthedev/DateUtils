@@ -2,7 +2,8 @@
 
     <PropertyGroup>
         <TargetFramework>net5.0</TargetFramework>
-        <RootNamespace>DanTheDev.DateUtils</RootNamespace>
+        <RootNamespace>Bonliva.DateUtils</RootNamespace>
+        <PackageId>Bonliva.DateUtils</PackageId>
         <Version>1.0.0</Version>
         <Authors>iamdanthedev@gmail.com, denys.postyka@gmail.com</Authors>
     </PropertyGroup>

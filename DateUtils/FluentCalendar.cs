@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     public class FluentCalendar
     {

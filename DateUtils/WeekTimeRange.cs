@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     public class WeekTimeRange
     {

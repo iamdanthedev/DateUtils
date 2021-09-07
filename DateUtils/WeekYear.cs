@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace DanTheDev.DateUtils
+namespace Bonliva.DateUtils
 {
     public class WeekYear
     {
